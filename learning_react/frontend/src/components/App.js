@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import { render } from "react-dom";
+import ReactDOM from "react-dom"
+import React from "react"
 
-class App extends Component {
+class App extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -46,7 +46,13 @@ class App extends Component {
     }
 }
 
+const MyComponent = props => {
+    return <h1>Hello, {props.name}! </h1>;
+}
+
 export default App;
 
-const  container = document.getElementById("app");
-render(<App />, container);
+const  container1 = document.getElementById("app");
+ReactDOM.render(<App />, container1);
+const  container2 = document.getElementById("second_app");
+ReactDOM.render(<MyComponent name="Mateusz" />, container2);
