@@ -4144,7 +4144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598528567452</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Giving control over Square Class to Board class.">
+      <created>1598531477685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598531477685</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -4165,6 +4172,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learning how to use react contructors and passing values. &#10;Creating little game from tutorial. &#10;Add .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning how to use react contructors and passing values. &#10;Creating little game from tutorial. &#10;Add .idea" />
+    <MESSAGE value="Giving control over Square Class to Board class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Giving control over Square Class to Board class." />
   </component>
 </project>
