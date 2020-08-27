@@ -53,6 +53,6 @@ const MyComponent = props => {
 export default App;
 
 const  container1 = document.getElementById("app");
-ReactDOM.render(<App />, container1);
 const  container2 = document.getElementById("second_app");
+ReactDOM.render(<App />, container1);
 ReactDOM.render(<MyComponent name="Mateusz" />, container2);
