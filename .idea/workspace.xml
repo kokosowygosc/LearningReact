@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc506899-906f-416c-a1ac-141f70cb0273" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_react/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/learning_react/frontend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_react/frontend/src/components/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning_react/frontend/src/components/Game.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_react/frontend/static/frontend/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning_react/frontend/static/frontend/main.js" afterDir="false" />
     </list>
@@ -83,7 +84,7 @@
       <workItem from="1598448704896" duration="2480000" />
       <workItem from="1598526744482" duration="1703000" />
       <workItem from="1598777484325" duration="2135000" />
-      <workItem from="1599066111421" duration="3708000" />
+      <workItem from="1599066111421" duration="9432000" />
     </task>
     <task id="LOCAL-00001" summary="Learning how to use react contructors and passing values. &#10;Creating little game from tutorial. &#10;Add .idea">
       <created>1598528567451</created>
@@ -106,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599067686726</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="We can now go back in time to see previous moves. &#10;History added then.">
+      <created>1599071258937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599071258937</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +137,7 @@
     <MESSAGE value="Learning how to use react contructors and passing values. &#10;Creating little game from tutorial. &#10;Add .idea" />
     <MESSAGE value="Giving control over Square Class to Board class." />
     <MESSAGE value="Changes due to introducing history of moves into the game." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes due to introducing history of moves into the game." />
+    <MESSAGE value="We can now go back in time to see previous moves. &#10;History added then." />
+    <option name="LAST_COMMIT_MESSAGE" value="We can now go back in time to see previous moves. &#10;History added then." />
   </component>
 </project>
