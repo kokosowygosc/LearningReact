@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc506899-906f-416c-a1ac-141f70cb0273" name="Default Changelist" comment="We can now go back in time to see previous moves. &#10;History added then.">
-      <change afterPath="$PROJECT_DIR$/learning_react/frontend/src/components/Concepts.js" afterDir="false" />
+    <list default="true" id="dc506899-906f-416c-a1ac-141f70cb0273" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_react/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/learning_react/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_react/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning_react/frontend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_react/frontend/static/frontend/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_react/frontend/src/components/Concepts.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning_react/frontend/src/components/Concepts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_react/frontend/templates/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_react/frontend/templates/frontend/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,7 +84,7 @@
       <workItem from="1598526744482" duration="1703000" />
       <workItem from="1598777484325" duration="2135000" />
       <workItem from="1599066111421" duration="9432000" />
-      <workItem from="1599982128033" duration="452000" />
+      <workItem from="1599982128033" duration="3411000" />
     </task>
     <task id="LOCAL-00001" summary="Learning how to use react contructors and passing values. &#10;Creating little game from tutorial. &#10;Add .idea">
       <created>1598528567451</created>
@@ -117,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599071258937</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add some test purpose functions. &#10;Also --watch to package.json to eliminate need of manual reload.">
+      <created>1599982680487</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599982680488</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +145,7 @@
     <MESSAGE value="Giving control over Square Class to Board class." />
     <MESSAGE value="Changes due to introducing history of moves into the game." />
     <MESSAGE value="We can now go back in time to see previous moves. &#10;History added then." />
-    <option name="LAST_COMMIT_MESSAGE" value="We can now go back in time to see previous moves. &#10;History added then." />
+    <MESSAGE value="Add some test purpose functions. &#10;Also --watch to package.json to eliminate need of manual reload." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add some test purpose functions. &#10;Also --watch to package.json to eliminate need of manual reload." />
   </component>
 </project>
