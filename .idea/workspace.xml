@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc506899-906f-416c-a1ac-141f70cb0273" name="Default Changelist" comment="">
+    <list default="true" id="dc506899-906f-416c-a1ac-141f70cb0273" name="Default Changelist" comment="Add welcome function and component. &#10;Add clock component to reload time on page.">
+      <change afterPath="$PROJECT_DIR$/learning_react/frontend/src/components/Concepts2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_react/frontend/src/components/Concepts.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning_react/frontend/src/components/Concepts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_react/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning_react/frontend/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_react/frontend/templates/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_react/frontend/templates/frontend/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,7 +86,9 @@
       <workItem from="1598526744482" duration="1703000" />
       <workItem from="1598777484325" duration="2135000" />
       <workItem from="1599066111421" duration="9432000" />
-      <workItem from="1599982128033" duration="3411000" />
+      <workItem from="1599982128033" duration="3748000" />
+      <workItem from="1600016309275" duration="618000" />
+      <workItem from="1600193335949" duration="2975000" />
     </task>
     <task id="LOCAL-00001" summary="Learning how to use react contructors and passing values. &#10;Creating little game from tutorial. &#10;Add .idea">
       <created>1598528567451</created>
@@ -121,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599982680488</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add welcome function and component. &#10;Add clock component to reload time on page.">
+      <created>1599988325247</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599988325247</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +157,7 @@
     <MESSAGE value="Changes due to introducing history of moves into the game." />
     <MESSAGE value="We can now go back in time to see previous moves. &#10;History added then." />
     <MESSAGE value="Add some test purpose functions. &#10;Also --watch to package.json to eliminate need of manual reload." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add some test purpose functions. &#10;Also --watch to package.json to eliminate need of manual reload." />
+    <MESSAGE value="Add welcome function and component. &#10;Add clock component to reload time on page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add welcome function and component. &#10;Add clock component to reload time on page." />
   </component>
 </project>

@@ -38,6 +38,10 @@ const user = {
   lastname: "Mar"
 };
 
+function FormatedDate(props) {
+  return <h1>Current time: {props.date.toLocaleString()}.</h1>;
+}
+
 class Clock extends React.Component {
   constructor(props) {
     super(props);
@@ -67,16 +71,11 @@ class Clock extends React.Component {
     return (
       <div>
         <h1>Timer:</h1>
-        <h2>Current time: {this.state.date.toLocaleString()}.</h2>
+        <FormatedDate date={this.state.date} />
       </div>
     );
   }
 }
-
-ReactDOM.render(<Clock />,
-  document.getElementById('timer')
-);
-
 
 const element = (
   <div>
@@ -94,6 +93,6 @@ const reactElement1 = React.createElement(
 
 const reactElement2 = <Welcome2 name="Jerry" />;
 
-let combine = [element, reactElement1, reactElement2];
+let combine = [element, reactElement1, reactElement2, <Clock />];
 
 ReactDOM.render(combine, document.getElementById('concepts'));
