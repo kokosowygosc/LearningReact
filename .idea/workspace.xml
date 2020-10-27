@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc506899-906f-416c-a1ac-141f70cb0273" name="Default Changelist" comment="">
+    <list default="true" id="dc506899-906f-416c-a1ac-141f70cb0273" name="Default Changelist" comment="Add login.js component. Testing conditions while rendering.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_react/frontend/src/components/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning_react/frontend/src/components/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -138,6 +141,7 @@
       <workItem from="1600193335949" duration="6642000" />
       <workItem from="1600231163756" duration="3474000" />
       <workItem from="1600935015727" duration="21531000" />
+      <workItem from="1603785781749" duration="549000" />
     </task>
     <task id="LOCAL-00001" summary="Learning how to use react contructors and passing values. &#10;Creating little game from tutorial. &#10;Add .idea">
       <created>1598528567451</created>
@@ -195,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600233487412</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add login.js component. Testing conditions while rendering.">
+      <created>1603785842395</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603785842395</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
