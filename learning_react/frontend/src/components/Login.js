@@ -17,20 +17,14 @@ function LogoutButton(props) {
   );
 }
 
-function UserGreeting(props) {
-  return <h1>Witamy ponownie!</h1>;
-}
-
-function GuestGreeting(props) {
-  return <h1>Proszę się zarejestrować</h1>;
-}
-
 function Greeting(props) {
   const isLoggedIn = props.isLoggedIn;
-  if (isLoggedIn) {
-    return <UserGreeting />;
+  let greeting;
+  {isLoggedIn
+    ? greeting = <h1>Witamy ponownie!</h1>
+    : greeting = <h1>Proszę się zarejestrować</h1>
   }
-  return <GuestGreeting />;
+  return greeting
 }
 
 class Login extends React.Component {
@@ -49,17 +43,14 @@ class Login extends React.Component {
 
   render() {
     const isLoggedIn = this.state.isLoggedIn;
-    let button;
-    if (isLoggedIn) {
-      button = <LogoutButton onClick={ () => this.handleLogoutClick() }/>
-    } else {
-      button = <LoginButton onClick={ () => this.handleLoginClick() }/>
-    }
 
     return (
       <div>
         <Greeting isLoggedIn={isLoggedIn}/>
-        {button}
+        {isLoggedIn
+          ? <LogoutButton onClick={() => this.handleLogoutClick()}/>
+          : <LoginButton onClick={() => this.handleLoginClick() }/>
+        }
       </div>
     )
   }
