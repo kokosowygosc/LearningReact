@@ -25,3 +25,8 @@ body {
   background-color: #282c34;
   color: #ffffff;
 }
+
+li.list-group-item > .btn {
+  margin-top: -7px;
+  margin-right: 5px;
+}

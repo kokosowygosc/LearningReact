@@ -1,6 +1,6 @@
 import './App.css';
 import React, {Component} from "react";
-import Modal from "./components/Modal";
+import ModalCreate from "./components/CustomCreate";
 import axios from "axios"
 
 class App extends Component {
@@ -48,11 +48,27 @@ class App extends Component {
     this.setState({ activeItem: item, modal: !this.state.modal });
   };
 
+  deleteItem = item => {
+    axios
+      .delete(`api/learn/${item.id}`)
+      .then(res => this.refreshList());
+  };
+
+  editItem = item => {
+    this.setState({activeItem: item, modal: !this.state.modal });
+  };
+
   renderItems = () => {
     const testItems = this.state.testList;
     return testItems.map(item => (
       <li key={item.id} className="list-group-item">
-          { item.test }
+        { item.test }
+        <button onClick={() => this.deleteItem(item)} className="btn btn-danger float-right">
+          Remove
+        </button>
+        <button onClick={() => this.editItem(item)} className="btn btn-dark float-right">
+          Edit
+        </button>
       </li>
     ));
   };
@@ -69,7 +85,7 @@ class App extends Component {
           </div>
         </div>
           {this.state.modal ? (
-            <Modal
+            <ModalCreate
               activeItem={this.state.activeItem}
               toggle={this.toggle}
               onSave={this.handleSubmit}

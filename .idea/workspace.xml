@@ -1,56 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2fb8436-bb68-4356-a76e-5df22514c019" name="Default Changelist" comment="Add new project inside repository.">
-      <change afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/learning_react1/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/learning_react1/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/learning_react1/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/learning_react1/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/src/components/Modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learn/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learn/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learn/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learn/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learn/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learn/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learn/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learning_react2/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learning_react2/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learning_react2/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learning_react2/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/react_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/react_learn.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c2fb8436-bb68-4356-a76e-5df22514c019" name="Default Changelist" comment="Add deleting and editing elements.">
+      <change afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/.coverage" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/.bin/acorn" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/.bin/acorn.cmd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/.bin/acorn.ps1" beforeDir="false" />
@@ -141,7 +95,6 @@
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/core/lib/config/files/module-types.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/core/lib/config/files/package.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/core/lib/config/files/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/core/lib/config/files/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learn/migrations/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/core/lib/config/files/utils.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/core/lib/config/full.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/core/lib/config/helpers/config-api.js" beforeDir="false" />
@@ -255,7 +208,6 @@
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/helper-compilation-targets/lib/options.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/helper-compilation-targets/lib/pretty.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/helper-compilation-targets/lib/targets.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/helper-compilation-targets/lib/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learning_react2/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/helper-compilation-targets/lib/utils.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/helper-compilation-targets/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/@babel/helper-create-class-features-plugin/LICENSE" beforeDir="false" />
@@ -7776,43 +7728,18 @@
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/yargs/locales/zh_TW.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/yargs/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/node_modules/yargs/yargs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/src/components/Concepts.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/src/components/Concepts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/src/components/Concepts2.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/src/components/Concepts2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/src/components/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/src/components/Game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/src/components/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/src/components/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/static/frontend/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/static/frontend/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/templates/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/templates/frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/frontend/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/leads/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/leads/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/leads/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/leads/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/leads/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/leads/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/leads/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/leads/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/leads/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/leads/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/leads/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/leads/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/leads/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/leads/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/leads/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/leads/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/leads/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/leads/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/leads/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/leads/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/learning_react/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact1/learning_react1/learning_react1/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/learning_react/asgi.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/learning_react/settings.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/learning_react/urls.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/learning_react/wsgi.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact2/learning_react/learning_react/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/learn/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact2/learning_react/learning_react/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact2/learning_react/learning_react/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact2/learning_react/learning_react/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact2/learning_react/learning_react/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningReact2/learning_react/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningReact1/learning_react1/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningReact2/learning_react2/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/src/components/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/LearningReact2/learning_react2/frontend/src/components/CustomCreate.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7838,11 +7765,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="deletionFromPopupRequiresConfirmation" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LearningReact2/learning_react2/manage.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/catch_deer.py" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="E:\Programy\PyCharm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mateu\PycharmProjects\react_learn\LearningReact1\learning_react1" />
       <recent name="C:\Users\mateu\PycharmProjects\react_learn\LearningReact1\learning_react1\frontend" />
     </key>
   </component>
@@ -7977,7 +7906,9 @@
       <workItem from="1603798385418" duration="5048000" />
       <workItem from="1603805907982" duration="4689000" />
       <workItem from="1603869694765" duration="6962000" />
-      <workItem from="1603876713684" duration="67000" />
+      <workItem from="1603876713684" duration="266000" />
+      <workItem from="1603972527977" duration="149000" />
+      <workItem from="1604646210281" duration="8894000" />
     </task>
     <task id="LOCAL-00001" summary="Add new project inside repository.">
       <created>1603791540364</created>
@@ -7986,7 +7917,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603791540364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Divide repository into 2 projects. &#10;Starting creating second learning react app. This time using yarn and create-react-app packet from npm.&#10;This app will simply get/put data from django rest api using react.">
+      <created>1603876992808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603876992808</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -8011,7 +7949,8 @@
     </ignored-roots>
     <MESSAGE value="New mapping." />
     <MESSAGE value="Add new project inside repository." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new project inside repository." />
+    <MESSAGE value="Divide repository into 2 projects. &#10;Starting creating second learning react app. This time using yarn and create-react-app packet from npm.&#10;This app will simply get/put data from django rest api using react." />
+    <option name="LAST_COMMIT_MESSAGE" value="Divide repository into 2 projects. &#10;Starting creating second learning react app. This time using yarn and create-react-app packet from npm.&#10;This app will simply get/put data from django rest api using react." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/react_learn$Test__LearningReact2.coverage" NAME="Test: LearningReact2 Coverage Results" MODIFIED="1603792486842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
